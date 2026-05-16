@@ -1,1 +1,1 @@
-FULL geometric_memory.py
+the geometric one
