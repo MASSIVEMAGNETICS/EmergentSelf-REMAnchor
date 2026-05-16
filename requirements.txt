@@ -1,0 +1,6 @@
+nicegui>=1.4
+numpy
+matplotlib
+pydantic>=2.0
+requests  # for optional Ollama integration
+# For future enhancements: sentence-transformers, networkx, plotly (if using ui.plotly)
